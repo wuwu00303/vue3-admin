@@ -38,8 +38,8 @@ import {useRouter} from 'vue-router'
 
 const router = useRouter();
 const form = reactive({
-  account: '',
-  password: '',
+  account: 'admin',
+  password: '123',
 })
 const rules = reactive<FormRules>({
   account: [
