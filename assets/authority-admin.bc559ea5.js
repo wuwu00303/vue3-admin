@@ -1,0 +1,1 @@
+import{_ as e,a as t,c as s,e as c}from"./index.5404a7ca.js";const o={},n={class:"flex justify-center items-center bg-white h-full"},r=c("div",null,"\u7BA1\u7406\u5458\u53EF\u89C1",-1),_=[r];function a(i,d){return t(),s("div",n,_)}const f=e(o,[["render",a]]);export{f as default};
